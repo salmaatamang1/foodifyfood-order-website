@@ -1,0 +1,12 @@
+.align{
+    align-content: center;
+    float: right;
+}
+h2{
+    text-decoration: underline;
+    text-shadow: 1px;
+    color: aqua;
+}
+.aa{
+    background-color: aqua;
+}
